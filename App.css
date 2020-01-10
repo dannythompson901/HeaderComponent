@@ -1,0 +1,67 @@
+.header {
+  position: fixed;
+  width: 100%;
+}
+
+.toolbar_logo {
+  margin-left: 15em;
+  margin-top: 2em;
+}
+.toolbar_navigation_items {
+  position: absolute;
+  margin-left: 25em;
+  margin-top: -4.2em;
+}
+li {
+  padding: 10px;
+  font: "Roboto", sans-serif;
+  
+}
+li a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  color: #003E69;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.myAccount {
+  position: absolute;
+  margin-left: 60em;
+  margin-top: -2.4em;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #003E69;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.requestServiceButton a {
+    position: absolute;
+    margin-left: 75em;
+    margin-top:-4.8em;
+    border-radius: 12px;
+    color:#F44336;
+    border: 2px solid #ED3126;
+    width: 180px;
+    line-height: 42px;
+    background-color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.getStarted a {
+  position: absolute;
+    margin-left: 90em;
+    margin-top:-6.5em;
+    border-radius: 12px;
+    color:#fff;
+    border: 2px solid #F47B20;
+    width: 180px;
+    line-height: 42px;
+    background-color: #F47B20;
+    font-weight: bold;
+    text-decoration: none;
+}
